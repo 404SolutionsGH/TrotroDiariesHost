@@ -1,9 +1,9 @@
 export const DefaultCommunity = {
   communityName: 'Trotro Diaries',
   communityLogo:
-    'https://res.cloudinary.com/dkkf9iqnd/image/upload/v1632978887/community/c572c15e-72ab-4a72-b955-8be12931af06.png',
+    'https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1439003787/wfmw1cdraegpf0knntnt.png',
   communityLogoPublicId: '',
-  communitySocialImage: 'https://res.cloudinary.com/dkkf9iqnd/image/upload/v1634034591/community/social.jpg',
+  communitySocialImage: 'https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1439003787/wfmw1cdraegpf0knntnt.png',
   primaryColor: '#0084FF',
   isEmailVerificationRequired: false,
   facebookLoginEnabled: false,
